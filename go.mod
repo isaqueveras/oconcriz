@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/alecthomas/participle/v2 v2.1.4
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/iancoleman/strcase v0.3.0
 	github.com/isaqueveras/juazeiro v0.0.0-20240416010309-68d04496488e
 )
